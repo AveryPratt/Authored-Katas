@@ -1,0 +1,6 @@
+C:\Users\aprat\projects\katas\transposition_chromatic\Transposition_Chromatic\Transposition_Chromatic\bin\Debug\Transposition_Chromatic.exe.config
+C:\Users\aprat\projects\katas\transposition_chromatic\Transposition_Chromatic\Transposition_Chromatic\bin\Debug\Transposition_Chromatic.exe
+C:\Users\aprat\projects\katas\transposition_chromatic\Transposition_Chromatic\Transposition_Chromatic\bin\Debug\Transposition_Chromatic.pdb
+C:\Users\aprat\projects\katas\transposition_chromatic\Transposition_Chromatic\Transposition_Chromatic\obj\Debug\Transposition_Chromatic.csprojResolveAssemblyReference.cache
+C:\Users\aprat\projects\katas\transposition_chromatic\Transposition_Chromatic\Transposition_Chromatic\obj\Debug\Transposition_Chromatic.exe
+C:\Users\aprat\projects\katas\transposition_chromatic\Transposition_Chromatic\Transposition_Chromatic\obj\Debug\Transposition_Chromatic.pdb

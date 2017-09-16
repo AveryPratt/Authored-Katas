@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transposition_Chromatic", "Transposition_Chromatic\Transposition_Chromatic.csproj", "{5DC61F51-0A5F-4BC1-970D-8A1C256B1DC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC61F51-0A5F-4BC1-970D-8A1C256B1DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC61F51-0A5F-4BC1-970D-8A1C256B1DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC61F51-0A5F-4BC1-970D-8A1C256B1DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC61F51-0A5F-4BC1-970D-8A1C256B1DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
